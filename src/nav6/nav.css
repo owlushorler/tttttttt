@@ -1,0 +1,47 @@
+.jio{
+    background-color: whitesmoke;
+    display:grid;
+    grid-template-columns: 20vw 20vw 20vw;
+    gap:1vw;
+    padding: 10vw;
+    padding-left: 18vw;
+    
+}
+
+.kl{
+    font-size: 1vw;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.6vw;
+    padding: 1vw;
+    margin-top: -7vw;
+    color: white;
+}
+
+.kll{
+    font-size: 1vw;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1vw;
+    padding: 1vw;
+    margin-top: -4vw;
+    color: white;
+    font-style:oblique;
+
+}
+
+.kaa{
+    
+    display: flex;
+    flex-direction: row;
+    gap: 5vw;
+    padding: 6vw;
+}
+
+.ww{
+    display: flex;
+    gap: 4vw;
+    background-color: white;
+    width: 70vw;
+    margin-top: 2vw;
+}
